@@ -1,0 +1,5 @@
+name: ${name}
+main: ${mainClass}
+version: ${version}
+author: ghowden/Eluinhost
+database: false
